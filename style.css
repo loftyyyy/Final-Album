@@ -1,0 +1,76 @@
+body {
+  background-color: #f2f2f2 !important;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    margin: 0;
+}
+#disappearingButton{
+  position: fixed;
+  z-index: 9999;
+}
+#muteButton{
+  border: none;
+  position:fixed;
+  z-index: 9999;
+  bottom: 1%;
+  right: 1%;
+  background-color:#FF90BC;
+}
+#scrollToTopBtn {
+  display: none;
+  border: none;
+  position:fixed;
+  bottom: 5%;
+  right: 1%;
+ /* margin-left: 1300px; */
+  /* margin-top: 486px; */
+  z-index: 9999;
+  background-color:#FF90BC;
+}
+#nicaOpaw {
+  border-radius: 0.5rem;
+  width: 35px;
+  height: 35px;
+  margin-bottom: 10px;
+}
+/* .myCarousel{
+    margin: 10px;
+}  */
+.carousel-item{
+    height: 95vh;
+}
+.cards{
+    margin: 20px;
+}
+/* .carousel-inner > .carousel-item > img {
+    width:340px;
+    height:360px;
+  } */
+.burger-button{
+    /*margin-left: 1255px; */
+    margin-left: 97%;
+}
+.myLogo {
+    position: absolute;
+    margin: 10px 0 0 20px;
+}
+.blockquoteNiRho{
+  color: white;
+}
+.dotted {
+  margin:20px 350px 20px 350px;
+  border-color: #999;
+}
+.ourAlbum {
+  text-align: center;
+}
+/*.card-title, .card-text {
+  color: white;
+} */
+
+
+/* .myNavbar {
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/escheresque.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! 
+} */
